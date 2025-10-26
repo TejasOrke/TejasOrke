@@ -1,17 +1,5 @@
-<!-- Top Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TejasOrke/TejasOrke/main/assets/top-banner.gif" width="100%" alt="Coding Banner"/>
-</p>
-
 <h1 align="center">👋 Hi, I'm Tejas Sanjay Orke</h1>
-<h3 align="center">💻 Full Stack Developer | ☁️ DevOps & Cloud Enthusiast | 🧠 DSA Problem Solver</h3>
-
----
-
-<!-- Center Developer GIF -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TejasOrke/TejasOrke/main/assets/dev-coding.gif" width="70%" alt="Developer Coding GIF"/>
-</p>
+<h3 align="center">MCA Student | Full Stack Developer | DevOps & DSA Enthusiast</h3>
 
 ---
 
@@ -25,24 +13,60 @@
 
 ---
 
-### 🏆 Achievements
+## 🏆 Achievements
 - 🥇 **LeetCode Global Rank:** 23,519 (1000+ problems solved)
 - ☁️ **Oracle Cloud Infrastructure (OCI) Certified** — Oracle University (Oct 2025)
 - 💼 **NSDC Certification** — Java, C & C++ (Apr 2023)
 
 ---
 
-### 🧰 Skills & Tools
+## 🧰 Skills & Tools
 
-**Frontend:** React.js • HTML • CSS • Tailwind CSS • Bootstrap  
-**Programming Languages:** Java • Python • JavaScript • C++  
-**Databases:** PostgreSQL • MySQL • MongoDB  
-**DevOps & Cloud:** AWS (EC2, S3, IAM) • OCI • Docker • Kubernetes • Jenkins • Ansible • Terraform • CI/CD Pipelines • Shell Scripting • Prometheus • Grafana  
-**Tools & Testing:** Git • GitHub • Maven • JUnit • Mockito • Postman • Swagger  
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React.js" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="40" alt="Bootstrap" title="Bootstrap" />
+</p>
+
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" title="C++" />
+</p>
+
+<p align="center">
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
+</p>
+
+<p align="center">
+  <!-- DevOps & Cloud -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" title="Kubernetes" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins" title="Jenkins" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" title="Terraform" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40" alt="AWS" title="AWS" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux" />
+</p>
+
+<p align="center">
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" title="Postman" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" alt="Swagger" title="Swagger" />
+</p>
 
 ---
 
-### 📊 GitHub & LeetCode Stats
+## 📊 GitHub & LeetCode Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TejasOrke&show_icons=true&theme=tokyonight" height="160"/>
@@ -59,24 +83,13 @@
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/tejas-orke" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Tejas%20Orke-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://leetcode.com/otejas40" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-otejas40-orange?style=for-the-badge&logo=leetcode" />
-  </a>
-  <a href="mailto:orketejas@gmail.com">
-    <img src="https://img.shields.io/badge/Email-orketejas@gmail.com-red?style=for-the-badge&logo=gmail" />
-  </a>
+  <a href="https://linkedin.com/in/tejas-orke" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Tejas%20Orke-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://leetcode.com/otejas40" target="_blank"><img src="https://img.shields.io/badge/LeetCode-otejas40-orange?style=for-the-badge&logo=leetcode" /></a>
+  <a href="mailto:orketejas@gmail.com"><img src="https://img.shields.io/badge/Email-orketejas@gmail.com-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
-
-<!-- Footer GIF -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TejasOrke/TejasOrke/main/assets/footer-thanks.gif" width="60%" alt="Thanks for visiting"/>
-</p>
 
 > “Code. Debug. Learn. Repeat.” 🚀
