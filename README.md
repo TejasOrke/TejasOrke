@@ -24,44 +24,44 @@
 
 <p align="center">
   <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/TejasOrke/TejasOrke/main/assets/icons/react-original.svg" height="40" alt="React" title="React.js" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/TejasOrke/TejasOrke/main/assets/icons/html5-original.svg" height="40" alt="HTML5" title="HTML5" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/TejasOrke/TejasOrke/main/assets/icons/css3-original.svg" height="40" alt="CSS3" title="CSS3" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/TejasOrke/TejasOrke/main/assets/icons/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/TejasOrke/TejasOrke/main/assets/icons/bootstrap-plain.svg" height="40" alt="Bootstrap" title="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React.js" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="40" alt="Bootstrap" title="Bootstrap" />
 </p>
 
 <p align="center">
   <!-- Programming Languages -->
-  <img src="https://raw.githubusercontent.com/TejasOrke/TejasOrke/main/assets/icons/java-original.svg" height="40" alt="Java" title="Java" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/TejasOrke/TejasOrke/main/assets/icons/python-original.svg" height="40" alt="Python" title="Python" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/TejasOrke/TejasOrke/main/assets/icons/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/TejasOrke/TejasOrke/main/assets/icons/cplusplus-original.svg" height="40" alt="C++" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" title="C++" />
 </p>
 
 <p align="center">
   <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/TejasOrke/TejasOrke/main/assets/icons/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/TejasOrke/TejasOrke/main/assets/icons/mysql-original.svg" height="40" alt="MySQL" title="MySQL" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/TejasOrke/TejasOrke/main/assets/icons/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
 </p>
 
 <p align="center">
   <!-- DevOps & Cloud -->
-  <img src="https://raw.githubusercontent.com/TejasOrke/TejasOrke/main/assets/icons/docker-original.svg" height="40" alt="Docker" title="Docker" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/TejasOrke/TejasOrke/main/assets/icons/kubernetes-plain.svg" height="40" alt="Kubernetes" title="Kubernetes" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/TejasOrke/TejasOrke/main/assets/icons/jenkins-original.svg" height="40" alt="Jenkins" title="Jenkins" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/TejasOrke/TejasOrke/main/assets/icons/terraform-original.svg" height="40" alt="Terraform" title="Terraform" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/TejasOrke/TejasOrke/main/assets/icons/aws-original.svg" height="40" alt="AWS" title="AWS" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/TejasOrke/TejasOrke/main/assets/icons/linux-original.svg" height="40" alt="Linux" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" title="Kubernetes" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins" title="Jenkins" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" title="Terraform" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40" alt="AWS" title="AWS" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux" />
 </p>
 
 <p align="center">
   <!-- Tools -->
-  <img src="https://raw.githubusercontent.com/TejasOrke/TejasOrke/main/assets/icons/git-original.svg" height="40" alt="Git" title="Git" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/TejasOrke/TejasOrke/main/assets/icons/github-original.svg" height="40" alt="GitHub" title="GitHub" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/TejasOrke/TejasOrke/main/assets/icons/postman-original.svg" height="40" alt="Postman" title="Postman" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/TejasOrke/TejasOrke/main/assets/icons/swagger-original.svg" height="40" alt="Swagger" title="Swagger" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" title="Postman" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" alt="Swagger" title="Swagger" />
 </p>
 
 ---
