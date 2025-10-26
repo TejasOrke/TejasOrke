@@ -1,4 +1,19 @@
-## 🧰 Skills & Technologies
+<h1 align="center">👋 Hi, I'm Tejas Sanjay Orke</h1>
+<h3 align="center">💻 MCA Student | Full Stack Developer | DevOps Enthusiast</h3>
+
+---
+
+### 🧠 About Me
+🎓 I'm pursuing **Master of Computer Applications (MCA)** from **Sardar Patel Institute of Technology, Mumbai**  
+🌱 Currently learning **Microservices, Cloud, and DevOps Tools**  
+💡 Passionate about building efficient systems using **Spring Boot, React, and Cloud Technologies**  
+💬 Ask me about **Java, Spring Boot, React, DevOps, and System Design**  
+📫 Reach me at **orketejas@gmail.com**  
+⚡ Fun fact: I love solving **LeetCode** & **GFG** problems — 1000+ solved!  
+
+---
+
+## 🧰 Tech Stack
 
 ### 💻 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -26,11 +41,11 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-### 🧩 Version Control & Tools
+### 🧩 Tools & Testing
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
@@ -38,3 +53,33 @@
 ![Mockito](https://img.shields.io/badge/Mockito-3DDC84?style=for-the-badge&logo=java&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+---
+
+## 🏆 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TejasOrke&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejasOrke&theme=tokyonight" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasOrke&layout=compact&theme=tokyonight" height="160">
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/tejas-orke/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:orketejas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/TejasOrke"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+### 💬 Quote
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+---
+⭐️ *From [TejasOrke](https://github.com/TejasOrke)*
