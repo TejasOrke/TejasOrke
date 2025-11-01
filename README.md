@@ -9,7 +9,7 @@
 - 🧩 Solved **1000+ LeetCode problems** — Ranked **23,519** globally  
   🥇 Skill Badges: **Dynamic Programming**, **Graphs**, **Greedy Algorithms**
 - ☁️ **Oracle Cloud Infrastructure (OCI) Certified** — *Oracle University*, Oct 2025  
-- 💼 **NSDC Certified** in Java, C & C++ — Apr 2023
+- 💼 **NSDC Certified** in Java, C & C++ Apr 2023
 
 ---
 
@@ -87,7 +87,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/tejas-orke" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Tejas%20Orke-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://leetcode.com/otejas40" target="_blank"><img src="https://img.shields.io/badge/LeetCode-otejas40-orange?style=for-the-badge&logo=leetcode" /></a>
-  <a href="mailto:orketejas@gmail.com"><img src="https://img.shields.io/badge/Email-orketejas@gmail.com-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:otejas40@gmail.com"><img src="https://img.shields.io/badge/Email-otejas40@gmail.com-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
