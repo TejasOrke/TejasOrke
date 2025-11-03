@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Tejas Sanjay Orke</h1>
-<h3 align="center">MCA Student | Full Stack Developer | DevOps & DSA Enthusiast</h3>
+<h3 align="center">MCA Student | Full Stack Developer | DevOps & DSA </h3>
 
 ---
 
